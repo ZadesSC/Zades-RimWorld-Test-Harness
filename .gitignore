@@ -1,0 +1,11 @@
+bin/
+obj/
+artifacts/
+SaveData/
+.vs/
+mods/*/Assemblies/
+mods/DevTools/
+mods/RimworldTestHarness.DevTools/
+mods/RimworldTestHarness.HdhDevTools/
+src/RimworldTestHarness.HdhDevTools/
+config/
